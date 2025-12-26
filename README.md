@@ -4,7 +4,7 @@ minimalistic and simple TODO app for personal use designed for coding projects
 # Setup
 1. Clone the repo
 ```bash
-git clone https://github.com/Anubisworkingexperience/pocketTODO.git
+git clone https://github.com/anyreacher/pocketTODO.git
 cd pocketTODO
 ```
 
